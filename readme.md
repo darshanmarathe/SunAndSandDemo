@@ -4,3 +4,5 @@ Darshan Created V 2.0
     Booking Page=> Nadira
     Near by => Rani 
     Taxi services = Darshan
+Rajani Created V 2.1
+    Fixed issues given by testing in about page 
